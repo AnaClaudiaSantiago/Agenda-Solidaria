@@ -1,2 +1,2 @@
 # Agenda Solidaria
- Primeiro repositorio criado de um projeto em flutter.
+ Primeio repositrio criado  por um projeto flutter.
